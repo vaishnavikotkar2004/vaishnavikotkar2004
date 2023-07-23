@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vaishnavikotkar2004](github.com/vaishnavikotkar2004)
 
-- 💬 Ask me about **DBMS,C**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **kotkarvaishnavi18@gmail.com**
 
@@ -25,8 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavikotkar2004&show_icons=true&locale=en" alt="vaishnavikotkar2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikotkar2004&" alt="vaishnavikotkar2004" /></p>
-
-
-
-
 
