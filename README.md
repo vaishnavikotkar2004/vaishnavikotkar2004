@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kotkar</h1>
 <h3 align="center">A passionate programer from India</h3>
-https://tenor.com/view/programming-gif-25868426
 
 - 👨‍💻 All of my projects are available at [github.com/vaishnavikotkar2004](github.com/vaishnavikotkar2004)
 
