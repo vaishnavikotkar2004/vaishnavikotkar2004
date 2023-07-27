@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kotkar</h1>
 <h3 align="center">A passionate programer from India</h3>
+https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikotkar2004&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikotkar2004" /> </p>
 
