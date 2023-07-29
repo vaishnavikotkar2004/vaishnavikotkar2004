@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kotkar</h1>
+
 <h3 align="center">A passionate programer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikotkar2004&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikotkar2004" /> </p>
@@ -9,12 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vaishnavikotkar2004](github.com/vaishnavikotkar2004)
 
-- 💬 Ask me about **DBMS,C**
+- 💬 Ask me about **c,sql,plpgsql**
 
 - 📫 How to reach me **kotkarvaishnavi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vaishnavi kotkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi kotkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
