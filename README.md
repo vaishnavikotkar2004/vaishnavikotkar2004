@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kotkar</h1>
 
 <h3 align="center">A passionate programer from India</h3>
- <img align="right" alt="coding" width="400" src="<body background="https://camo.githubusercontent.com/3da0b27301d4ace9904a6fce658ccffbfebd7e41e62f7477ca4998970a65716e/68747470733a2f2f696d6775722e636f6d2f5376684e5233572e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikotkar2004&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikotkar2004" /> </p>
 
